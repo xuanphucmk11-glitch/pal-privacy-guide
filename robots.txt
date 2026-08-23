@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Add Sitemap only after an authorized public base URL exists.
